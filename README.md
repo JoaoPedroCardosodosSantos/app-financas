@@ -50,12 +50,35 @@ Correções de funcionalidades.
 > O agente deve ser capaz de criar e atualizar metas financeiras.  
 Exemplo: quando o usuário enviar algo como “guardar 1000 reais em reserva de emergência”, o agente deve interpretar essa instrução e atualizar a meta existente ou criar uma nova meta correspondente.  
 
+---
+
 ## 🎯 Resultado Final
 
-Acesse o protótipo funcional no Lovable:  
-**[app-financas.app](https://meu-dia-magico.lovable.app/)**
+Acesse o protótipo funcional no Lovable: **[app-financas.app](https://meu-dia-magico.lovable.app/)**
 
-<img alt="app image" src="resumo.png" />
+### 📱 Telas do Aplicativo
+
+#### Tela Principal (Chat)
+Visualização do chat para registrar transações e interagir com o agente financeiro.  
+<img width="200" height="400" alt="Tela principal do chat" src="https://github.com/JoaoPedroCardosodosSantos/app-financas/blob/main/chat.jpeg" />
+
+#### Resumo de Gastos
+Exibe os gastos diários e semanais, com insights e comparativos.  
+<img width="200" height="400" alt="Tela resumo de gastos" src="https://github.com/JoaoPedroCardosodosSantos/app-financas/blob/main/resumo.jpeg" />
+
+#### Metas Financeiras
+Painel para criação e acompanhamento de metas, com progresso atualizado.  
+<img width="200" height="400" alt="Tela metas" src="https://github.com/JoaoPedroCardosodosSantos/app-financas/blob/main/metas.jpeg" />
+
+#### Dicas do Agente
+Sugestões educativas e práticas para melhorar o controle financeiro.  
+<img width="200" height="400" alt="Tela dicas" src="https://github.com/JoaoPedroCardosodosSantos/app-financas/blob/main/dicas.jpeg" />
+
+#### Relatórios
+Gráficos simples (pizza e linha) para análise das categorias e tendências de gastos.  
+<img width="200" height="400" alt="Tela relatórios" src="https://github.com/JoaoPedroCardosodosSantos/app-financas/blob/main/relatorios.jpeg" />
+
+---
 
 
 ## ⚙️ Funcionalidades do Protótipo
